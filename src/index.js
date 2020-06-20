@@ -29,7 +29,7 @@ MovieCard.defaultProps = {
 const jurassicWorldGenres = ['Action', 'Adventure', 'Science Fiction', 'Thriller'];
 
 ReactDOM.render(
-  <MovieCard 
+  <MovieCard
    title = "Jurassic World"
    genres = {jurassicWorldGenres}
   />,
